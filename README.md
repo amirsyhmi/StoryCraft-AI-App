@@ -47,7 +47,7 @@ The example output for the storyline:
 The image generated based on the storyline:
 
 <p align="center">
-  <img src="Images/Example output.jpg" alt="Example ouput">
+  <img src="Images/Example ouput.jpg" alt="Example output">
 </p>
 
 # Limitation
